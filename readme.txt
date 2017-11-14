@@ -4,7 +4,7 @@ Donate link: https://AhmadAwais.com/contact
 Tags: facebook, meta ogg, share, thumbnail, social, meta
 Requires at least: 3.0
 Tested up to: 5.0
-Stable tag: 1.3
+Stable tag: 1.5.0
 
 It will add ogg meta tags and perfect thumbnail to your share on Facebook.
 
