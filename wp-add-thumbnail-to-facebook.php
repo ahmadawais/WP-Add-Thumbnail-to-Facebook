@@ -3,7 +3,7 @@
 Plugin Name:  WP Add Thumbnail to Facebook
 Plugin URI:   http://www.freakify.com
 Description:  It will add ogg meta tags and perfect thumbnail to your share on Facebook.
-Version:      1.5.0
+Version:      1.6.0
 Author:       WPCouple(Ahmad Awais & Maedah Batool)
 Author URI:   https://AhmadAwais.com/
 License:      GPL 3
